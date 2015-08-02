@@ -55,12 +55,12 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "Farofa's Bot",
+        botName: "PopMundoBot",
         language: "portuguese",
         startupCap: 1, // 1-200
         startupVolume: 0, // 0-100
         startupEmoji: true, // true or false
-        chatLink: "https://rawgit.com/BotFarofa/Farofa-Bot/master/lang/pt.json",
+        chatLink: "https://rawgit.com/LucasLuz01/vegas-popmundo/master/lang/pt.json",
         maximumAfk: 60,
         afkRemoval: false,
         maximumDc: 60,
